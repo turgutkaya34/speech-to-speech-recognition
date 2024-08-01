@@ -1,4 +1,4 @@
-"""Main file for the Daniel project"""
+
 import os
 from os import PathLike
 from time import time
